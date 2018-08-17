@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StocksApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="currencies">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>XRP</item>
+        <item>BCH</item>
+        <item>EOS</item>
+        <item>XLM</item>
+        <item>LTC</item>
+        <item>ADA</item>
+        <item>IOTA</item>
+        <item>USDT</item>
+        <item>TRX</item>
+        <item>NEO</item>
+        <item>XMR</item>
+        <item>DASH</item>
+        <item>ETC</item>
+        <item>XEM</item>
+        <item>BNB</item>
+        <item>XTZ</item>
+        <item>OMG</item>
+        <item>VEN</item>
+        <item>ZEC</item>
+        <item>QTUM</item>
+        <item>ZRX</item>
+        <item>ICX</item>
+        <item>ZIL</item>
+        <item>BCN</item>
+        <item>LSK</item>
+        <item>DCR</item>
+        <item>BTS</item>
+        <item>ONT</item>
+        <item>BTG</item>
+        <item>AE</item>
+        <item>DGB</item>
+        <item>MKR</item>
+        <item>SC</item>
+    </string-array>
+
+</resources>
